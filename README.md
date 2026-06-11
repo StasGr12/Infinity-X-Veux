@@ -1,2 +1,2 @@
-# Infinity-X-Veux
+# Infinity X Veux
 Unofficial builds of Infinity X for veux
