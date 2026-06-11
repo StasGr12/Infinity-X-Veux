@@ -1,0 +1,6 @@
+Initial Release:
+June Security Patches
+Oneplus Dolby
+MIUI Camera
+Kernel SU v3.2.4
+NFC tested
